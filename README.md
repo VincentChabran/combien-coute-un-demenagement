@@ -66,3 +66,20 @@ chaque affirmation chiffrée est sourcée et vérifiable, ici même.
 ---
 
 *Orvala — on chiffre ce que les autres se contentent d'affirmer.*
+
+## La série « On a compté »
+
+Toute la série, avec un chiffre-titre par sujet : [github.com/VincentChabran](https://github.com/VincentChabran)
+
+Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
+
+- [783 €/an pour un chien, 571 €/an pour un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat)
+- [19 293 €](https://github.com/VincentChabran/combien-coute-un-mariage)
+- [488 €](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
+- [1 748 €](https://github.com/VincentChabran/combien-coutent-des-vacances-ete)
+- [491 €](https://github.com/VincentChabran/combien-coute-noel)
+- [490 €/mois](https://github.com/VincentChabran/combien-coute-un-bebe)
+- [154 € (chez les couples qui la fêtent)](https://github.com/VincentChabran/combien-coute-la-saint-valentin)
+- [77 € vs 76 €](https://github.com/VincentChabran/combien-coute-la-fete-des-meres-et-des-peres)
+- [85 € (étude 2024)](https://github.com/VincentChabran/combien-coute-halloween)
+- [4 730 €](https://github.com/VincentChabran/combien-coute-des-obseques)
