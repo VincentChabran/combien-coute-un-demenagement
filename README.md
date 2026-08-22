@@ -1,5 +1,7 @@
 # 1 239,56 € : le coût de revient officiel d'un déménagement de 27 m³
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-un-demenagement.pages)
+
 **On a compté.** Pas un conseil, pas une astuce — un chiffre, sa décomposition, sa source.
 
 Un coût de revient, c'est la base sur laquelle l'entreprise construit son prix — avant marge, TVA
